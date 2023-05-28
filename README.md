@@ -1,9 +1,10 @@
 # Papa Weather Events
-Website: https://main--f12a-papa-weather.netlify.app/
 
 1. About
 2. Background 
 3. Getting Started
+
+Website: https://main--f12a-papa-weather.netlify.app/
 
 ## 1. About 
 A weather events application to obtain information about weather events and efficiency of power production given the weather conditions of a certain day. It records, transforms, and displays information about current, past andpredicted weather events, provides a percentage efficiency of wind energy based on daily fluctuations and allows users to input varying data to obtain the efficiency of renewable energy.
