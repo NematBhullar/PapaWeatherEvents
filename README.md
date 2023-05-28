@@ -4,10 +4,11 @@
 2. Background 
 3. Getting Started
 
-Website: https://main--f12a-papa-weather.netlify.app/
 
 ## 1. About 
 A weather events application to obtain information about weather events and efficiency of power production given the weather conditions of a certain day. It records, transforms, and displays information about current, past andpredicted weather events, provides a percentage efficiency of wind energy based on daily fluctuations and allows users to input varying data to obtain the efficiency of renewable energy.
+
+Website: https://main--f12a-papa-weather.netlify.app/
 
 ## 2. Background 
 Weather patterns vary with high and low temperatures, humidity levels, wind speeds and rain, so it is important that certain users can have easy access to this data at the locations and time affecting them. The data through which all this was possible is sourced from the Bureau of Meterology. We first gathered the station IDs of a list of locations throughout NSW. Using these station IDs we receive a multitude of data ranging from could, gust, weather. 
