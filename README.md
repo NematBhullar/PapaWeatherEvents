@@ -1,10 +1,9 @@
 # Papa Weather Events
-![Uploading Screenshot 2023-08-25 at 5.50.07 pm.png…]()
+<img width="1337" alt="Screenshot 2023-08-25 at 5 50 07 pm" src="https://github.com/NematBhullar/PapaWeatherEvents/assets/91060343/1cdd2376-20b6-40a9-ab6d-06eef3bfbb4c">
 
 1. About
 2. Background 
 3. Getting Started
-
 
 ## 1. About 
 A weather events application to obtain information about weather events and efficiency of power production given the weather conditions of a certain day. It records, transforms, and displays information about current, past andpredicted weather events, provides a percentage efficiency of wind energy based on daily fluctuations and allows users to input varying data to obtain the efficiency of renewable energy.
